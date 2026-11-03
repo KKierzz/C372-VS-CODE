@@ -1,0 +1,6 @@
+$kind: http-request
+url: http://localhost:3000/payments/prepare/1?amount=1
+method: GET
+queryParams:
+  amount: "1"
+order: 5000
